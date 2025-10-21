@@ -1,0 +1,14 @@
+[
+  {
+    "product": "Pasta Barilla",
+    "quantity": "500g",
+    "price": "0,99",
+    "file": "demo.jpg"
+  },
+  {
+    "product": "Olio EVO",
+    "quantity": "1L",
+    "price": "4,49",
+    "file": "demo.jpg"
+  }
+]

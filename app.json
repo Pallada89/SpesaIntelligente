@@ -1,0 +1,20 @@
+{
+  "name": "RisparmioSmart Backend",
+  "description": "FastAPI + Tesseract (ITA) su Heroku",
+  "buildpacks": [
+    {
+      "url": "heroku-community/apt"
+    },
+    {
+      "url": "heroku/python"
+    }
+  ],
+  "env": {
+    "PYTHONHASHSEED": {
+      "value": "random"
+    }
+  },
+  "scripts": {
+    "postdeploy": "echo 'Post-deploy ok'"
+  }
+}
