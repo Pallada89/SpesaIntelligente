@@ -18,5 +18,6 @@ git push heroku main
 
 ## Frontend Vercel
 Configura `REACT_APP_API_BASE` = URL della tua app Heroku.
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Pallada89/risparmiosmart-backend-heroku)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Pallada89/SpesaIntelligente)
+
 
